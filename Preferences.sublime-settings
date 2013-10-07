@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Theme - Soda/Monokai Soda.tmTheme",
+	"font_face": "Source Code Pro Semibold",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark 3.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
