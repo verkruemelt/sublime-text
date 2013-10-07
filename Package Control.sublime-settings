@@ -2,8 +2,10 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Generic Config",
 		"Git",
 		"Google Search",
+		"Minify",
 		"SideBarEnhancements",
 		"sublimelint",
 		"Theme - Soda",
