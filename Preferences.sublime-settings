@@ -1,10 +1,6 @@
 {
-<<<<<<< HEAD
-	"color_scheme": "Packages/Theme - Soda/Monokai Soda.tmTheme",
-	"font_face": "Source Code Pro Semibold",
-=======
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"detect_slow_plugins": false,
 	"file_exclude_patterns":
 	[
@@ -15,15 +11,10 @@
 	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
->>>>>>> origin/master
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-<<<<<<< HEAD
-	"theme": "Soda Dark 3.sublime-theme",
-	"trim_trailing_white_space_on_save": true
-=======
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"match_brackets_braces": true,
@@ -40,5 +31,4 @@
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
 	"word_wrap": true
->>>>>>> origin/master
 }
