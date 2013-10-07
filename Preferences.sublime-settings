@@ -1,10 +1,44 @@
 {
+<<<<<<< HEAD
 	"color_scheme": "Packages/Theme - Soda/Monokai Soda.tmTheme",
 	"font_face": "Source Code Pro Semibold",
+=======
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		"Thumbs.db",
+		"Desktop.ini"
+	],
+	"font_face": "Source Code Pro Semibold",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+>>>>>>> origin/master
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+<<<<<<< HEAD
 	"theme": "Soda Dark 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true
+=======
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"scroll_speed": 2,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true
+>>>>>>> origin/master
 }
