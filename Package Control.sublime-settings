@@ -1,16 +1,32 @@
 {
 	"installed_packages":
 	[
+		"Additional PHP Snippets",
 		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Compare Side-by-Side",
+		"DocBlockr",
+		"FuzzyFilePath"
 		"Generic Config",
 		"Git",
+		"GitGutter"
 		"Google Search",
+		"JavaScript & NodeJS Snippets",
+		"Markdown Extended",
 		"Minify",
 		"Monokai Extended",
 		"Package Control",
+		"Phpcs",
+		"PHPUnit Completions",
+		"PowerShell",
 		"SideBarEnhancements",
+		"Sort Lines By Selection"
 		"sublimelint",
 		"Theme - Soda",
+		"Vagrant",
+		"VAlign",
 		"WakaTime"
 	]
 }
